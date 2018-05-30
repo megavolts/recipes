@@ -1,8 +1,8 @@
 ---
-tags: croissant
+tags: croissant, pâtes feuilletée
 ---
 
-# Humus
+# Croissant
 ## Ingredients
 - farine blanche (Type 55)	  500	 g 
 - lait entier				  140    g
