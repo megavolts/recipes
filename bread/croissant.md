@@ -14,9 +14,8 @@ tags: croissant, pâtes feuilletée
 - oeuf							1
 
 ## Pâte feuilletée
-1. Combiner farine, lait, eau, sucre, 40 g de beurre, levure sèche, sel. Ne pas trop pétrir au risque de développer le gluten.
-2. a. Réfrigérer 60 minutes
-   b. Former un carré de 17 cm  de côté avec 280 g de beurre dans un papier sulfurisé. Réfrigérer 
+1. Combiner farine, lait, eau, sucre, 40 g de beurre, levure sèche, sel. Ne pas trop pétrir au risque de développer le gluten. Réfrigérer 60 minutes
+2. Former un carré de 17 cm  de côté avec 280 g de beurre dans un papier sulfurisé. Réfrigérer 
 3. Etaler la pâte en un carré de 26 cm de côté. Placer le carré de beurre à 45° au centre. Plier les volets de pâtes pour enfermer le beurre. Sceller les jointures.
 4. Etaler la pâte en un rectangle de 20 cm x 60 cm. Préserver une épaisseur uniforme. Plier la pâtes en 3 pour former un carré de 20 cm de côté. Refrigrer 60 minutes
 5. Tourner le carré de 90°. Etaler la pâte en un rectangle de 20 cm x 60 cm. Préserver une épaisseur uniforme. Plier la pâtes en 3 pour former un carré de 20 cm de côté. Refrigrer 30 minutes
