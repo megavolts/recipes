@@ -1,5 +1,5 @@
 ---
-tags: ice cream, vanilla, eggs, cream
+tags: ice cream, vanilla, eggs, cream, glace, parfait
 ---
 
 # Vanilla Ice Cream
