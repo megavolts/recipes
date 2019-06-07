@@ -25,4 +25,4 @@ tags: ice cream, mate, matcha, egg, cream, glace, parfait
 - Mate could be replaced by match, black tea or any other herbal infusion or tea.
 
 ## References:
-- Betty Bossi, parfait au chocolat, https://www.bettybossi.ch
+- Inspired by Betty Bossi, parfait au chocolat, https://www.bettybossi.ch
