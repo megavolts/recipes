@@ -1,5 +1,5 @@
 ---
-tags: ice cream, coffee, 
+tags: ice cream, vanilla, eggs, cream
 ---
 
 # Vanilla Ice Cream
