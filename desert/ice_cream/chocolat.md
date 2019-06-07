@@ -20,5 +20,3 @@ tags: ice cream, coffee,
 5. Incorporate whipped cream with beaten yolk
 6. Incorporate delicately fluffed egg white
 7. Freeze for at least a couple of hours
-Glace au thé
-A la place de l’Incarom, porter 0.5 des 2 dl de crème à ébullition avec du thé noir. Faire infuser 5-10 minutes et ajouter la crème passée. 
