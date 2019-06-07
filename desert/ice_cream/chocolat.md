@@ -1,5 +1,5 @@
 ---
-tags: ice cream, coffee, 
+tags: ice cream, chocolate, egg, cream, glace, parfait
 ---
 
 # Chocolate Ice Cream
@@ -20,3 +20,6 @@ tags: ice cream, coffee,
 5. Incorporate whipped cream with beaten yolk
 6. Incorporate delicately fluffed egg white
 7. Freeze for at least a couple of hours
+
+## References:
+- Betty Bossi, parfait au chocolat, https://www.bettybossi.ch
