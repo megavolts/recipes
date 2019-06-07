@@ -1,5 +1,5 @@
 ---
-tags: ice cream, coffee, egg, cream, sugar
+tags: ice cream, coffee, egg, cream, glace, parfait
 ---
 
 # Coffee Ice Cream
