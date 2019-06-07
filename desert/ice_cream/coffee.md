@@ -1,5 +1,5 @@
 ---
-tags: ice cream, coffee, 
+tags: ice cream, coffee, egg, cream, sugar
 ---
 
 # Coffee Ice Cream
