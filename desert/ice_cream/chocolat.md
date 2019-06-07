@@ -16,10 +16,10 @@ tags: ice cream, chocolate, egg, cream, glace, parfait
 2. Beat egg yolks with sugar, until it turns whitish
 3. Whipped heavy cream
 4. Incorporate cacao powder into beaten egg
-4. Add melted chocolate into beaten egg white
-5. Incorporate whipped cream with beaten yolk
-6. Incorporate delicately fluffed egg white
-7. Freeze for at least a couple of hours
+5. Add melted chocolate into beaten egg white
+6. Incorporate whipped cream with beaten yolk
+7. Incorporate delicately fluffed egg white
+8. Freeze for at least a couple of hours
 
 ## References:
 - Betty Bossi, parfait au chocolat, https://www.bettybossi.ch
