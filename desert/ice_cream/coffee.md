@@ -18,3 +18,6 @@ tags: ice cream, coffee,
 5. Incorporate whipped cream with egg yolks, sugar and coffee
 6. Incorporate delicately fluffed egg white
 7. Freeze for at least a couple of hours
+
+## References:
+- Betty Bossi, parfait café, https://www.bettybossi.ch
