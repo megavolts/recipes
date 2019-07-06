@@ -12,7 +12,7 @@ tags: bread, rye
 - flax seed             200 g
 - mixed seeds and nuts  300 g
 
-## Preparations
+## Preparation
 1. The evening before, mix rye flour, 1.7 l water, salt and sourdough
 2. In the morning, set aside 300 g of sourdough
 3. Mix first dough, cracked rye, 0.9 l of water, all seeds and nuts
