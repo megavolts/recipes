@@ -18,9 +18,9 @@ tags: bread, rye
 3. Mix first dough, cracked rye, 0.9 l of water, all seeds and nuts
 4. Shape 3 loaves
 5. In the evening bake the loaf at 
-5.1 65min @212F
-5.2 25min @325F, cover with tin foil for lighter crust or brush with oil for darker crust
-5.3 70min @325F
+5. 1. 65min @212F
+5. 2. 25min @325F, cover with tin foil for lighter crust or brush with oil for darker crust
+5. 3. 70min @325F
 6. keep the bread in the turn-off oven for 95 min
 
 ## Notes
