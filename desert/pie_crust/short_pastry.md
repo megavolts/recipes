@@ -14,6 +14,3 @@ tags: pâte brisée, short pastry
 ## Short pastry
 1. Mixed flour, butter, salt, egg yolk and water
 2. Refrigerate for 1 hour
-
-## Use
-* Chicken pot pie
