@@ -1,5 +1,5 @@
 ---
-tags: pâte brisée, short pastry
+tags: pâte brisée, short pastry, chicken pot pie
 ---
 
 # Short pastry
