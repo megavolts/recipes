@@ -11,8 +11,8 @@ tags: bread, brioche
 - Egg                 250  g   50
 - Whole milk          120  g   24
 - Sourdough/Leaven    150  g   30
-- Poolish              200  g   40
-- Butter              200  g   45
+- Poolish             200  g   40
+- Butter              225  g   45
 - salt                12.5 g    2.5
 </pre>
 
