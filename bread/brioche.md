@@ -37,4 +37,5 @@ tags: bread, brioche
 
 ## References
 Ursula Affolter & Francine Beaud, Croqu'menus : Manuel de recettes culinaires. Moyen d'enseignement intercantonal, Editions scolaires de l'Etat de Bern
+
 Chad Robertson, Tartine Bread (2010), Chronicle Books, San Francisco
