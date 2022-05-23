@@ -1,8 +1,8 @@
 ---
-tags: ice cream, mate, matcha, egg, cream, glace, parfait
+tags: ice cream, mate, egg, cream, glace, parfait
 ---
 
-# Chocolate Ice Cream
+# Mate infused Ice Cream
 
 ## Ingredient:
 - Heavy whipping cream  2.5 dl
